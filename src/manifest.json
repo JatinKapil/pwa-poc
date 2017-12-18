@@ -1,0 +1,23 @@
+{
+  "name": "PWApp",
+  "short_name": "PWA-POC",
+  "icons": [{
+    "src": "assets/android-chrome-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    },
+    {
+    "src": "assets/android-chrome-384x384.png",
+    "sizes": "384x384",
+    "type": "image/png"
+    },
+    {
+    "src": "assets/splash-530x530.png",
+    "sizes": "530x530",
+    "type": "image/png"
+    }],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#E8E8E8",
+  "theme_color": "#E8E8E8"
+}
